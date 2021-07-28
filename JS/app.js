@@ -1,6 +1,5 @@
-// todday's-motivation 
-// console.log("Get a massive help : CodeWithHarry(cwh-19)");
-// https://bit.ly/3yYr33x
+// mondalCodeHub - Arup Mondal (2021)
+//Date : 27th july 2021
 
 console.log("MCX NOTE WEBAPP VERSION == 01");
 showNotes();
